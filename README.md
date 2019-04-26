@@ -1,2 +1,2 @@
 # Automate-for-Fun
-scripts to automate repetitative tasks in linux kernel
+scripts to automate repetitive tasks in linux kernel
